@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿// < Лисецький Володимир >
+// Лабораторна робота № 2.
+// Лінійні програми.
+// Варіант 12
+
+#include <iostream>
 using namespace std;
 
 int main()
